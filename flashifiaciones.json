@@ -2,7 +2,7 @@
   "titulo": "Notificaciones de series y juegos nuevos",
   "descripcion": "Your app fetched this from a remote endpoint!",
   "datos": [
-    { "id": "1", "title": "Estoy pensando descargar CallOfDutyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy", "fecha": "30-10-2019" },
+    { "id": "1", "title": "Estoy pensando descargar CallOfDutyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy", "fecha": "30-10-2019" },
     { "id": "2", "title": "dato4", "fecha": "2019" },
     { "id": "3", "title": "dato3", "fecha": "2019" },
     { "id": "4", "title": "dato2", "fecha": "2019" },
